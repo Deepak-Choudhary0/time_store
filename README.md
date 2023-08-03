@@ -3,9 +3,9 @@
 ### Task Checkpoints
 
 1. **Data Ingestion:**
-   - [ ] Read data from CSV files for data sources 1, 2, and 3.
-   - [ ] Store the data in a SQLite database as separate tables.
-   - [ ] Ensuring that the data is correctly stored and accessible.
+   - [x] Read data from CSV files for data sources 1, 2, and 3.
+   - [x] Store the data in a SQLite database as separate tables.
+   - [x] Ensuring that the data is correctly stored and accessible.
 
 2. **Data Processing:**
    - [ ] Convert timestamps to the appropriate timezones using data source 3 (timezone information).
