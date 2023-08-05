@@ -1,4 +1,4 @@
-# time_store
+# Time Store
 
 ### Task Checkpoints
 
@@ -25,6 +25,8 @@
    - [x] Create an API to fetch the report data.
    - [x] Implement API endpoints for handling requests and queries.
    - [x] Ensure the API returns data in a structured format (e.g., CSV).
+
+![Screenshot from 2023-08-05 17 43](https://github.com/Deepak-Choudhary0/time_store/assets/114693662/b6b566c6-91f7-4ba6-9b4e-ee5bc6bf4651)
 
 
 
