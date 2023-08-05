@@ -8,28 +8,24 @@
    - [x] Ensuring that the data is correctly stored and accessible.
 
 2. **Data Processing:**
-   - [ ] Convert timestamps to the appropriate timezones using data source 3 (timezone information).
+   - [x] Convert timestamps to the appropriate timezones using data source 3 (timezone information).
    - [ ] Extrapolate uptime and downtime based on periodic polls using interpolation logic.
    - [ ] Verify the accuracy of the extrapolation process.
 
 3. **Business Hours Filtering:**
-   - [ ] Filter data from data source 1 to include only observations within business hours.
-   - [ ] Confirm that only valid data during business hours is extracted.
+   - [x] Filter data from data source 1 to include only observations within business hours.
+   - [x] Confirm that only valid data during business hours is extracted.
 
 4. **Report Generation:**
-   - [ ] Calculate uptime and downtime metrics for each store for the last hour, last day, and last week.
-   - [ ] Format the output data with the required schema.
-   - [ ] Validate the correctness of the generated report.
+   - [x] Calculate uptime and downtime metrics for each store for the last hour, last day, and last week.
+   - [x] Format the output data with the required schema.
+   - [x] Validate the correctness of the generated report.
 
 5. **API Implementation:**
-   - [ ] Create an API to fetch the report data.
-   - [ ] Implement API endpoints for handling requests and queries.
-   - [ ] Ensure the API returns data in a structured format (e.g., JSON).
+   - [x] Create an API to fetch the report data.
+   - [x] Implement API endpoints for handling requests and queries.
+   - [x] Ensure the API returns data in a structured format (e.g., CSV).
 
-6. **Error Handling:**
-   - [ ] Implement error handling to gracefully handle potential issues.
-   - [ ] Test the system to verify proper error handling.
 
-7. **Documentation:**
-   - [ ] Create detailed documentation explaining the system architecture, data flow, and API endpoints.
-   - [ ] Include clear instructions on how to use the API to fetch the report.
+
+![Screenshot from 2023-08-05 17 42 37](https://github.com/Deepak-Choudhary0/time_store/assets/114693662/03425af5-d902-4cc7-8672-74c91f6f3cd5)
